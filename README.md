@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://octodex.github.com/images/mcefeeline.jpg" alt="Shubham Sihasane" width="150" height="150"/>
+</p>
 <h1 align="center">Hi 👋, I'm Shubham Sihasane</h1>
 <h3 align="center">A passionate DevOps aspirant from India!</h3>
 
