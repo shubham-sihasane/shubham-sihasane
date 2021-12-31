@@ -2,7 +2,7 @@
   <img src="https://octodex.github.com/images/mcefeeline.jpg" alt="Shubham Sihasane" width="150" height="150"/>
 </p>
 <h1 align="center">Hi 👋, I'm Shubham</h1>
-<h3 align="center">A Passionate DevOps Enthusiast From India!</h3>
+<h3 align="center">A DevOps Enthusiast From India!</h3>
 <h4 align="center">I love to live in the Terminal and play around the Cloud.</h4>
 
 <h3 align="center">Languages and Tools:</h3>
