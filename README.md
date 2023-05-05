@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://octodex.github.com/images/mcefeeline.jpg" alt="Shubham Sihasane" width="150" height="150"/>
+  <img src="https://github.githubassets.com/images/modules/site/home-campaign/astrocat.png" alt="Shubham Sihasane" width="200" height="200"/>
 </p>
 <h1 align="center">Hi 👋, I'm Shubham</h1>
 <h3 align="center">A DevOps Enthusiast From India!</h3>
